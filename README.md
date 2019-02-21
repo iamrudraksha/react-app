@@ -1,3 +1,6 @@
+The node packages are not present in this by default<br>
+Get node packages by visiting this link https://stackoverflow.com/questions/42308879/npm-err-code-elifecycle<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
